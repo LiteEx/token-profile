@@ -1,0 +1,21 @@
+{
+  "symbol": "LTT",
+  "address": "0x5F6bb887C9A4609078A01B2832f37D0F96Fe762f",
+  "overview":{
+        "en": "LiteToken is a new generation of block chain payment system and digital encrypted currency ecosystem, which ensures security and realizes global circulation through block chain technology architecture, and drives global consensus. Used for daily shopping consumption payment, real estate, travel, hotel accommodation, air ticket, foreign exchange exchange exchange, fund stock investment, cross-border payment and remittance. Then the digital currency users, value to build a new digital currency ecosystem.",
+        "zh": "LiteToken是新一代区块链支付系统及数字加密货币生态系统，通过区块链技术架构保障安全和实现全球性流通、带动全球性共识。应用于数字货币流通的日常购物消费支付、房产、旅游、酒店住宿、机票、外汇通兑、基金股票投资、跨境支付与汇款。继而以数字货币用户、价值构建全新的数字货币生态体系。"
+  },
+  "email": "liteexpg@163.com",
+  "website": "http://www.lttcoin.hk/",
+  "whitepaper": "http://www.lttcoin.hk/asset/book.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-11-01",
+  "initial_price":{
+        "USD":"0.01 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/liteEx",
+    "telegram": "https://t.me/LiteEx",
+    "github": "https://github.com/LiteEx/ltt"
+  }
+}
